@@ -65,21 +65,20 @@ Can only be blocked by enemy pieces
 - The most secure way to defend our pieces, a pawn
 
 The candidate to create a passed pawn from a majority is the pawn with no opposing pawn. If you advance the other pawns, the candidate may become a backward pawn and will be harder to advance because of the weak square in front of it.  
-Blockade is the stopping of a pawn bij opposing the pawn with a pieces
 
 Reasons to blockade a passed pawn with pieces
 - Lust to expand cause the awakening of the men in the rear therefore the passed pawn must be kept under lock and key.
 - Immunity of the blockading piece from attacks from the front
 - Crippling effect of the blockade
 
+Choice of blockading piece
+- Elasticity
+- Threats it can deliver
+
 Elasticity of the blockading piece 
 - Other pieces can look after the blockading square
 - The blockading square is in the center
 - The piece can return if the pawn advances further
-
-Choice of blockading piece
-- Elasticity
-- Threats it can deliver
 
 To play against the blockader the same principles as with protected pawns as decribed in open files can be used, exchanging, driving away, attack with mulitple pieces and transfer of attack to the cramped defending pieces
 
@@ -107,18 +106,17 @@ A pinned piece
 - Does not offer protection for other pieces
 - Is a good target to attack because it is immobile and already attacked.
 
-When a piece is pinned an attack by a pawn is decisive since flight is impossible, the piece creates the pressure by the pin and the pawn is the execuioner. 
+When a piece is pinned an attack by a pawn is decisive since flight is impossible, the piece creates the pressure by the pin and the pawn is the executioner. 
 
 ### Dealing with a pin on g5
 - Challenging: Can cause weaknesses for example Bg5 on Nf3 chased away by h3 creates a target h3 which can be attacked by h4 g4-g5
-- Ignoring: Can cause pawns to be broken up
-- Moving pinned pieces: Can also cause pawns to be broken up
+- Ignoring: Can cause pawns to be broken up or doubled
 - Unpinning: Placing a piece between 
 
 ## Discovered check
-Discovered check closely relates to a pin when the pinned piece is friendly instead of enemy it becomes a discovered attack piece.  
-Pieces in a discovered attack
-- The threatening check
+Discovered check closely relates to a pin, the difference is that the pinned piece is friendly instead of enemy, it becomes a discovered attack piece.  
+**Pieces in a discovered attack**
+- The threatening check piece
 - The piece between 
 - The threatened piece
 
@@ -126,14 +124,20 @@ The piece between resembles the little man who can do anything because he is pro
 Discovered check makes double attacks possible.
 
 ## Pawn Chain
-A pawn chain are multiple pawns that are being blocked by pawns or pieces. The pawn chain is not about the number of links in the chain but if the oppenents pawns can be restrained, it could also be achieved by rooks or bishops
+A pawn chain are multiple pawns that are being blocked by pawns or pieces. The pawn chain is not about the number of links in the chain but if the oppenents pawns are restrained, it could also be achieved by pieces.
 The bottom link in the chain which supports all the other links will be called the base. 
 
-**white d4, e5, f2, g2, h2 black d5, e6, f7, g7, h7**  white base is d4, black base is e6, f7 is not part of the chain. 
+**Example**
+**white d4, e5, f2, g2, h2 black d5, e6, f7, g7, h7**  
+White base is d4, black base is e6, f7 is not part of the chain. 
 The e5 pawn is advanced, demobilizes to form a wedge, removes f6 square from blacks knight and allows whites attacking forces to move more closely Qg4. The restricted kingside can also be attacked by Bd3 Nf3 and Bc1. After blacks f5 exf6 and white has an outpost on e5 and e6 is backward. A white pawn on f4 would have a negative effect blocking the bishops diagonal.  
-As well as cramping the kingside e5 has the plan f2-f4-f5 to attack the e6 pawn then black surrenders the base of the chain by e6xf5 or white builds a wedge by f6 white can also take e6. After taking on e6, the object of attack is blocked by e5 and can be attacked with a flanking manouvre by the rook. Also by e6xf5 or the pawn on e5 becomes mobile because it can move forward now the e6 pawn is gone.
+As well as cramping the kingside e5 has the plan f2-f4-f5 and attack e6, the base of the chain.  
+Possible results of this attack:
+- Black surrenders the base of the chain by e6xf5, the pawn on e5 becomes mobile because it can move forward now the e6 pawn is gone.
+- White builds a wedge by f6, cramps blacks position.
+- White takes f5xe6, opens the f file, the blockaded object of attack e6 can be attacked with a flanking manouvre by the rook. 
 
-1. Opposing base pawm fixed on it's square should be attacked by multiple pieces, the attacking pieces should be placed more agressively. 
+1. Opposing base pawn fixed on it's square should be attacked by multiple pieces, the attacking pieces should be placed more agressively. 
 2. Opponent will have difficulty developing, lesser elasticity and manouvrebility
 3. Maintain pressue until you get a new weaknesses
 4. Change the focus of attack to the new weaknesses
@@ -143,7 +147,7 @@ The goal in the endgame is a direct and real seizure of the object of attack, in
 **Transfer of attack**
 To change the base of the pawn chain to another for example when there a white c4, d5, e4, f3 vs black c7, d6, e5, f5. When e4 is very well guarded and after 0-0 black can by playing f4 transfer the base of the white chain from e4 to f3. f3 will be a weaker base because it is less guarded and the white king is close.
 
-**Blocking a chain with pieces
+**Blocking a chain with pieces**
 Nimzowitsch also gives an example where he gives up his own base of the chain d4 but replaces it with a piece and blocks black d5,e6 with pieces, this is possible because blacks c and f pawns are gone.
 
 ## Endgame
