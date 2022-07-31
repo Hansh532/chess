@@ -14,31 +14,31 @@ Photographic memory doesn't exist.  Some people have excellent memories and othe
 Summary of the elements
 
 ### Center
-The pawn is not a fighting unit by itself, because it doesn't threaten much when it crosses the border. It's attacking force is much lower than other pieces. A pawnless advance can not be sustained because it will be repelled by the opponents pawn center. Opposing free and mobile center pawn, is a dangerous criminal and must be executed *exchange by d5* or imprisoned *e4 by d6* 
+The pawn is not a fighting unit by itself, because it doesn't threaten much when it crosses the border. It's attacking force is much lower than other pieces. A pawnless advance can not be sustained because it will be repelled by the opponents pawn center.  Opposing free and mobile center pawn, is a dangerous criminal and must be executed *exchange by d5* or imprisoned *e4 by d6* 
 
-"the center and it's urge to demobilize", a free and mobile center is a terrible attacking center. it depends if the opponents kinghts can use tempi and find good posts.
+"the center and it's urge to demobilize", a free and mobile center is a terrible attacking power. it depends if the opponents kinghts can use tempi and find good posts.
 Protection of the center by pawns is preffered, a pawn feels at home defending, a piece feels restricted.  
 Take any center pawn if it can be done without too great danger.
 
 ### Development
-In the development phase only moves are allowed that occupy or help occupy the center. This is only partially relevant in closed games because there is less direct contact and development completes at a slower pace.
+In the development phase only moves are allowed that occupy or help occupy the center. This is only partially relevant in closed games because there is less direct contact and development completes at a slower pace.  
 A pawn move must not be considered in itself a development move but a move which helps development  
 No pawn grabbing before you complete development  
-Position your pieces centrally without allowing a pawn roller doing so provokes your opponent in exchanges which open files for you  
+Position your pieces centrally without allowing a pawn roller, doing so provokes your opponent in exchanges which open files for you  
 
 **Gaining tempi by:**
 - Exchange
 - Attack
 
 ### Objects of attack
-We must render immobile as possible any object we are attacking. An immobile object of attack is the same as a sqaure to be captured there is no difference because it is reduced to immobility.  
+We must render immobile as possible any object we are attacking. An immobile object of attack is the same as a sqaure to be captured, there is no difference because it is reduced to immobility.  
 Dont allow objects of attack white Qd2 Bd3 black h6 is a bad move because white h3, g4, g5.
 
 ## Open files
-A file is open when one's own pawn is not there or the own rook or queen is in front of the pawn, for example pawn on h2 with a rook on h3 the h file is open from h3 onward. Enemy pawns or pieces don't matter to decide if a file is open or closed.
-By positioning your pieces centrally you provoke your oppenent into exchanges which open files for you. For example a black Nd4 protected by c5, when captured by white Nf3xd4 after cxd4 opens the c-file for black.
-The idea behind any operation on a file consists of finally penetrating on the 7th or 8th in the opponents position.
+A file is open when one's own pawn is not there or the own rook or queen is in front of the pawn, for example pawn on h2 with a rook on h3 the h file is open from h3 onward.  Enemy pawns or pieces don't matter to decide if a file is open or closed.  
+By positioning your pieces centrally you provoke your opponent into exchanges which open files for you. For example a black Nd4 protected by c5, when captured by white Nf3xd4 after cxd4 opens the c-file for black.  
 
+The idea behind any operation on a file consists of finally penetrating on the 7th or 8th in the opponents position.
 Operations down a file ( access to the 7th and 8th ) the block granite ( protected pawn ) and how to undermine it  
 Protected and unprotected obstacles ( pawns )  
 Transfer of the attack from the protected to the unprotected defender, pawns or pieces  
