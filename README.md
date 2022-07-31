@@ -265,6 +265,9 @@ Blunder check.
 - Does your opponent have forcing moves after your move?
 - LPDO Loose Pieces Drop Off
 
+
+Nog iets over calculation ook dat ding van die WGM wat je op youtube gezien hebt.
+
 **Stay involved during opponents move**  
 When your opponent’s time is ticking, make it habit to stay focused on the position. Try and predict what they will do next. If you’re not sure what to think about, ask yourself questions. What are the potential tactical possibilities? What are the major weaknesses? What is the long-term plan for both sides? What is the worst placed piece, and how can it be improved?
 If you stay mentally involved with the position when it’s not your turn, you will see more and use less time on your own turn.
