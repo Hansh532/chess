@@ -56,8 +56,6 @@ One of our pieces preferably a kinght(best radius of attack) placed on a "outpos
 - Provokes a weakening on the file by the opponent
 - The outpost square must be well protected
 
-_eigen idee is dat een paard een heel apart stuk is het kan door alle andere stukken aangevallen worden zonder dat het zelf kan slaan en anders om ook als je aangevallen wordt door een paard val je het zelf niet aan. maar door de korte range wordt een paard vaak "caught" als ie gedekt is door een pion is ie min of meer onschendaar want alle andere stukken hebben een hogere waarde, alleen een pion zou hem kunnen wegjagen_
-
 _the knight is a very special piece it can be attacked by all other pieces without it being able to capture the attacking piece and also the same applies to a piece that is attacked by a knight. But due to the short range a knight is often caught. When protected by a pawn a knight is more or less invinceable because all other pieces have a higher value, only a pawn could drive him away_
 
 ## Passed pawns
