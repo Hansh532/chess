@@ -237,11 +237,12 @@ Manoevers:
 - Between attacking a pawn weakness from the file and from the 7th rank ( with R or Q ) ( via checks on the king )
 - Between two pawn weaknesses.
 
-# Karpov rule 
+## Karpov rule 
 - Look for multifunctional moves.
 - No pieces in each others way.
 
-# Time management.
+# Practical Chess
+## Time management.
 
 You can spend extra time in a critical position is where you feel there is a clear difference between the best move and the second best move, half a point or more. These are often sharp tactical positions.
 Don't always try to find the best move, try to win, dont waste 15 mins time looking for a forced mate in a +3 position. Improve the position instead.
@@ -274,11 +275,6 @@ If you stay mentally involved with the position when it’s not your turn, you w
 - When a move in question is very committal and transforms the position in some way that can't be undone
 
 **Common sense**
-
-- If you have one legal move, then there is no reason to think about it!
-- Avoid walking around during the game as this can waste precious time.
-- There is almost never a reason to spend more than 10 minutes on one move
-- If you get below 5 minutes, stop notating, stay focused and stay calm.
 - A superior position is better than a time advantage.
 - If you’re opponent is playing quickly, don’t let that affect how quickly you play. Take your time on the moves that require thought and decision making
 - If your opponent is in time trouble, don’t play quickly with the intention of trying to flag them, and this can cause you to make mistakes.
@@ -290,18 +286,18 @@ If you stay mentally involved with the position when it’s not your turn, you w
 - Don't use time to think about forced moves, even if you missed something.
 - DAUT Don't analyse unnecessary tactics, If it is possible to decide on your move on purely positional considerations then you should do so; it is quicker and more reliable.
 
-# Lazyness
+## Lazyness
 Laziness at the chessboard manifests itself in two ways. The first is when you have a complicated possibility, but decide not to analyse it on the
 grounds that it would be too much work. Note that is not the same as the
 'DAUT' that represents a conscious weighing of the balance between the timespent and the possibility of finding a better move.
 
-# Safety-nets
+## Safety-nets
 When you are thinking about a complex and lengthy tactical line, especially one involving sacrifices, it helps to have a safety-net, i.e. an alternative
 line which you can adopt if, half-way through your intended continuation, you discover that it doesn't work. The simplest type of safety-net is when you have a perpetual check in hand.
 
 [Graph of GM time distribution](GrandmasterThinkingTime.jpg)
 
-# Value of the pieces
+## Value of the pieces
 
 - A pawn 1
 - A pawn is worth 3 development moves during opening and early middelgame.
@@ -319,7 +315,7 @@ line which you can adopt if, half-way through your intended continuation, you di
 - depending on the position passed pawn on the seventh can be worth 3 pawns
 - it can also be worth 2 because it is passed, so passed pawns must be pushed!
 
-# Before a game
+## Before a game
 Take a relaxing day before, no intensive excersize or chess study.  
 Eat 2 hours before the game and take a nap.
 Do some tactics slightly above your level just before the game, to activate your brain.
