@@ -303,6 +303,11 @@ If you stay mentally involved with the position when it’s not your turn, you w
 - depending on the position passed pawn on the seventh can be worth 3 pawns
 - it can also be worth 2 because it is passed, so passed pawns must be pushed!
 
+# Before a game
+Take a relaxing day before, no intensive excersize or chess study.  
+Eat 2 hours before the game and take a nap.
+Do some tactics slightly above your level just before the game, to activate your brain.
+
 
 
 
