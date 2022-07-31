@@ -259,6 +259,7 @@ Your move vs your opponents:
 
 Blunder check.
 - Does your opponent have forcing moves after your move?
+- LPDO Loose Pieces Drop Off
 
 **Stay involved during opponents move**  
 When your opponent’s time is ticking, make it habit to stay focused on the position. Try and predict what they will do next. If you’re not sure what to think about, ask yourself questions. What are the potential tactical possibilities? What are the major weaknesses? What is the long-term plan for both sides? What is the worst placed piece, and how can it be improved?
@@ -282,6 +283,21 @@ If you stay mentally involved with the position when it’s not your turn, you w
 - If you’re opponent is playing quickly, don’t let that affect how quickly you play. Take your time on the moves that require thought and decision making
 - If your opponent is in time trouble, don’t play quickly with the intention of trying to flag them, and this can cause you to make mistakes.
 - If your next move isn’t forced, don’t play automatically. Consider at least a couple options.  
+
+**Reasons to run out of time**
+- Indecision, use intuition when in daubt
+- Worry about minor matters.
+- Don't use time to think about forced moves, even if you missed something.
+- DAUT Don't analyse unnecessary tactics, If it is possible to decide on your move on purely positional considerations then you should do so; it is quicker and more reliable.
+
+# Lazyness
+Laziness at the chessboard manifests itself in two ways. The first is when you have a complicated possibility, but decide not to analyse it on the
+grounds that it would be too much work. Note that is not the same as the
+'DAUT' that represents a conscious weighing of the balance between the timespent and the possibility of finding a better move.
+
+# Safety-nets
+When you are thinking about a complex and lengthy tactical line, especially one involving sacrifices, it helps to have a safety-net, i.e. an alternative
+line which you can adopt if, half-way through your intended continuation, you discover that it doesn't work. The simplest type of safety-net is when you have a perpetual check in hand.
 
 [Graph of GM time distribution](GrandmasterThinkingTime.jpg)
 
