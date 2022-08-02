@@ -255,51 +255,38 @@ Saving time by study
 - Know your openings in advance.
 - Study typical middlegames arising from your opening so you know the plans
 
-Your move vs your opponents:
+## Your move vs your opponents:
 - Your move sharp position - Calculate lines, what threats does your opponent have, what are the forcing moves.
 - Your move queiet position looking for improving moves over the next 3,4,5 moves, don't calculate concrete lines
 - Your opponents move - Assess the board. Look for weakenesses on both sides, look for strategic opportunities.
 - If you there is a very high probability the opponent will play a particular move ( forced ) you can already calculate your response.
 
-Blunder check.
-- Does your opponent have forcing moves after your move?
-- LPDO Loose Pieces Drop Off
-
-
-Nog iets over calculation ook dat ding van die WGM wat je op youtube gezien hebt.
-
-**Stay involved during opponents move**  
-When your opponent’s time is ticking, make it habit to stay focused on the position. Try and predict what they will do next. If you’re not sure what to think about, ask yourself questions. What are the potential tactical possibilities? What are the major weaknesses? What is the long-term plan for both sides? What is the worst placed piece, and how can it be improved?
-If you stay mentally involved with the position when it’s not your turn, you will see more and use less time on your own turn.
-
-**Critical moments**
-
+## Critical moments
+You can spend extra time in critical moments that may decide the outcome of the game, situations in where you have to find the best move because the second best move is much worse.
 - Forcing move(s) exist which might lead to a decisive advantage
 - Deciding whether or not to release pawn tension
 - Deciding whether or not to allow trades of certain pieces
 - When the opponent has a clear threat that needs to be dealt with in some way
 - When a move in question is very committal and transforms the position in some way that can't be undone
 
-**Common sense**
-- A superior position is better than a time advantage.
-- If you’re opponent is playing quickly, don’t let that affect how quickly you play. Take your time on the moves that require thought and decision making
-- If your opponent is in time trouble, don’t play quickly with the intention of trying to flag them, and this can cause you to make mistakes.
-- If your next move isn’t forced, don’t play automatically. Consider at least a couple options.  
-
-**Reasons to run out of time**
-- Indecision, use intuition when in daubt
-- Worry about minor matters.
-- Don't use time to think about forced moves, even if you missed something.
-- DAUT Don't analyse unnecessary tactics, If it is possible to decide on your move on purely positional considerations then you should do so; it is quicker and more reliable.
-
-## Lazyness
+## Lazyness vs wasting time
 Laziness at the chessboard manifests itself in two ways. The first is when you have a complicated possibility, but decide not to analyse it on the
 grounds that it would be too much work. Note that is not the same as the
 'DAUT' that represents a conscious weighing of the balance between the timespent and the possibility of finding a better move.
 
-## Safety-nets
-When you are thinking about a complex and lengthy tactical line, especially one involving sacrifices, it helps to have a safety-net, i.e. an alternative
-line which you can adopt if, half-way through your intended continuation, you discover that it doesn't work. The simplest type of safety-net is when you have a perpetual check in hand.
+## Process of deciding on a move
+- During opponents move, look for weakness, ideas, be creative not too much concrete calculation, but look at potential tactical possibilities. Figure out what white and black want.
+- If you're opponents move is more or less forced 90% chance it will be played, you can already think like the has been played and decide on your own move, this will give you an edge on the clock.
+- After opponents move, ask 2 questions what does it threaten, how does ik change the position?
+- Make inventory of moves to look at first, do a quick scan for forced moves you can play, look for positional moves.
+- Gain understanding by not too deeply calculating some lines.
+- Is one move clearly the best or are there multiple options? mayby other moves became interesting, during the calculation?
+- Have a preference for good but low risk moves, especially positional moves are quicker and more reliable.
+- If you want to go for a sharp line look for safety nets. ( an alternative
+line which you can adopt if, half-way through your intended continuation, you discover that it doesn't work. e.g. perpetual check)
+- Don't waste too much time looking over alternatives once you're convinced you found a good move.
+- Only at the point you have decided you want to play the move, be precise in calculating your opponents possible reply's, if you run into complications, you might want to go back and look at other moves.
+
 
 [Graph of GM time distribution](GrandmasterThinkingTime.jpg)
 
