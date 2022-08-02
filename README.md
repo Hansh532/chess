@@ -267,12 +267,12 @@ Don't always try to find the best move, try to win, dont waste 15 mins time look
 - If you want to go for a sharp line look for safety nets. ( an alternative
 line which you can adopt if, half-way through your intended continuation, you discover that it doesn't work. e.g. perpetual check)
 - Don't waste too much time looking over alternatives once you're convinced you found a good move.
-- Only at the point you have decided you want to play the move, be precise in calculating your opponents possible reply's, if you run into complications, you want to go back and look at other moves.
+- Only at the point you have decided you want to play the move, be precise in calculating your opponents possible reply's, are the forced moves, are there sacrifices? If you run into complications, you want to go back and look at other moves. 
 
 ## Lazyness vs wasting time
 Laziness at the chessboard manifests itself in two ways. The first is when you have a complicated possibility, but decide not to analyse it on the
 grounds that it would be too much work. Note that is not the same as the
-'DAUT' that represents a conscious weighing of the balance between the timespent and the possibility of finding a better move.
+'Do not analyse unnecesary tactics':'DAUT' that represents a conscious weighing of the balance between the timespent and the possibility of finding a better move.
 
 ## Critical moments
 You can spend extra time in a critical position where you feel there is a clear difference between the best move and the second best move, half a point or more. These are often sharp tactical positions.
