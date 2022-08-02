@@ -53,7 +53,7 @@ Thinning defenders by driving away, exchanges, cutting off
 By transfer of the attack from the protected to the unprotected defender, pawns or pieces
 
 ## Outpost
-One of our pieces preferably a knight(best radius of attack) placed on a "outpost square", a square within in enemy territory protected by pawn on an (half)open file (can still be attacked by a pawn in contrary to other definitions).  
+One of our pieces preferably a knight(best radius of attack) placed on a "outpost square", a square within enemy territory protected by pawn on a (half)open file (can still be attacked by a pawn in contrary to other definitions).  
  When the outpost is attacked by a pawn this weakens other squares/pawn's on the file. 
 
 - Can be used as a base for new attacks
