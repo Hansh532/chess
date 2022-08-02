@@ -14,17 +14,17 @@ Photographic memory doesn't exist.  Some people have excellent memories and othe
 Summary of the elements
 
 ### Center
-The pawn is not a fighting unit by itself, because it doesn't threaten much when it crosses the border. It's attacking force is much lower than other pieces. A pawnless advance can not be sustained because it will be repelled by the opponents pawn center.  Opposing free and mobile center pawn, is a dangerous criminal and must be executed *exchange by d5* or imprisoned *e4 by d6* 
+The pawn is not a fighting unit by itself, because it doesn't threaten much when it crosses the border. It's attacking force is much lower than other pieces.  A pawnless advance can not be sustained because it will be repelled by the opponents pawn center.  Opposing free and mobile center pawn, is a dangerous criminal and must be executed *exchange by d5* or imprisoned *e4 by d6* 
 
-"the center and it's urge to demobilize", a free and mobile center is a terrible attacking power. it depends if the opponents kinghts can use tempi and find good posts.
-Protection of the center by pawns is preffered, a pawn feels at home defending, a piece feels restricted.  
-Take any center pawn if it can be done without too great danger.
+**The center and it's urge to demobilize**  
+- A free and mobile center is a terrible attacking power. it depends if the opponents kinghts can use tempi and find good posts.
+- Protection of the center by pawns is preffered, a pawn feels at home defending, a piece feels restricted.  
+- Take any center pawn if it can be done without too great danger.
 
 ### Development
 In the development phase only moves are allowed that occupy or help occupy the center. This is only partially relevant in closed games because there is less direct contact and development completes at a slower pace.  
 A pawn move must not be considered in itself a development move but a move which helps development  
 No pawn grabbing before you complete development  
-Position your pieces centrally without allowing a pawn roller, doing so provokes your opponent in exchanges which open files for you  
 
 **Gaining tempi by:**
 - Exchange
@@ -36,20 +36,24 @@ Dont allow objects of attack white Qd2 Bd3 black h6 is a bad move because white 
 
 ## Open files
 A file is open when one's own pawn is not there or the own rook or queen is in front of the pawn, for example pawn on h2 with a rook on h3 the h file is open from h3 onward.  Enemy pawns or pieces don't matter to decide if a file is open or closed.  
-By positioning your pieces centrally you provoke your opponent into exchanges which open files for you. For example a black Nd4 protected by c5, when captured by white Nf3xd4 after cxd4 opens the c-file for black.  
+By positioning your pieces centrally without allowing a pawn roller you provoke your opponent into exchanges which open files for you. For example a black Nd4 protected by c5, when captured by white Nf3xd4 after cxd4 opens the c-file for black.  
 
-Operations down a file ( access to the 7th and 8th ) the block granite ( protected pawn ) and how to undermine it  
+### Operations down a file 
 The idea behind any operation on a file consists of finally penetrating on the 7th or 8th in the opponents position.
-Restricted advance: direct exploitation of a file is reaching the 7th or 8th, indirect is like a springboard to attack reach or attack another file from the side  
-Protected and unprotected obstacles ( pawns )  
-Transfer of the attack from the protected to the unprotected defender, pawns or pieces  
+Access to the 7th and 8th 
+
+- Direct exploitation of a file is reaching the 7th or 8th
+- Indirect exploitation is like a springboard to attack reach or attack another file from the side  
+- Evolutionary attack: concentrating on one point in order to build up superior forces to attack it  
+- Revolutionary attack: forced breakthrough with sacrifices
+- Both: First evolutionary, defending pieces are badly placed due to lack of space then revolutionary, a forcible breakthrough.  
+
+## Undermining the block of granite a protected pawn on a file   
 Thinning defenders by driving away, exchanges, cutting off  
-Evolutionary attack: concentrating on one point in order to build up superior forces to attack it  
-Revolutionary attack: forced breakthrough with sacrifices
-First evolutionary, defending pieces are badly placed due to lack of space then revolutionary, a forcible breakthrough.  
+By transfer of the attack from the protected to the unprotected defender, pawns or pieces
 
 ## Outpost
-One of our pieces preferably a kinght(best radius of attack) placed on a "outpost square", a square within in enemy territory protected by pawn on an (half)open file (can still be attacked by a pawn in contrary to other definitions).  
+One of our pieces preferably a knight(best radius of attack) placed on a "outpost square", a square within in enemy territory protected by pawn on an (half)open file (can still be attacked by a pawn in contrary to other definitions).  
  When the outpost is attacked by a pawn this weakens other squares/pawn's on the file. 
 
 - Can be used as a base for new attacks
@@ -246,6 +250,7 @@ Manoevers:
 
 # Time management
 Nimzowitsch on use of time: The game of chess is a struggle not a mathematical excersize.
+Don't always try to find the best move, try to win, dont waste 15 mins time looking for a forced mate in a +3 position. Improve the position instead.
 
 ## Saving time by study
 - Know your openings in advance.
@@ -270,8 +275,7 @@ grounds that it would be too much work. Note that is not the same as the
 'DAUT' that represents a conscious weighing of the balance between the timespent and the possibility of finding a better move.
 
 ## Critical moments
-You can spend extra time in a critical position is where you feel there is a clear difference between the best move and the second best move, half a point or more. These are often sharp tactical positions.
-Don't always try to find the best move, try to win, dont waste 15 mins time looking for a forced mate in a +3 position. Improve the position instead.
+You can spend extra time in a critical position where you feel there is a clear difference between the best move and the second best move, half a point or more. These are often sharp tactical positions.
 
 - Forcing move(s) exist which might lead to a decisive advantage
 - Deciding whether or not to release pawn tension
