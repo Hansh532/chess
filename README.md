@@ -288,7 +288,7 @@ The proces
 __Aagaard: Calculation is only a tool to aid the decision making process__
 
 ## Critical moments
-You can spend extra time in a critical position where you feel there is a clear difference between the best move and the second best move, half a point or more. These are often sharp tactical positions.
+You can spend extra time in a critical position where you feel there is a clear difference between the best move and the second best move, half a point or more in an equal position. These are often sharp tactical positions. 
 
 - Forcing move(s) exist which might lead to a decisive advantage
 - Deciding whether or not to release pawn tension
@@ -296,9 +296,7 @@ You can spend extra time in a critical position where you feel there is a clear 
 - When the opponent has a clear threat that needs to be dealt with in some way
 - When a move in question is very committal and transforms the position in some way that can't be undone
 
-## Lazyness vs wasting time
-Laziness at the chessboard manifests itself in two ways. The first is when you have a complicated possibility, but decide not to analyse it on the
-grounds that it would be too much work. Note that is not the same as the
+## DAUT
 'Do not analyse unnecesary tactics':'DAUT' that represents a conscious weighing of the balance between the timespent and the possibility of finding a better move.
 
 [Graph of GM time distribution](GrandmasterThinkingTime.jpg)
@@ -310,7 +308,7 @@ grounds that it would be too much work. Note that is not the same as the
 - 3.55 bishop
 - 5.25 rook ( is worth a little less in the beginning because there are still many pieces, little mobility )
 - 10 queen
-- 4 king
+- 4 king, for it's mobility
 - 0.5 bishop pair, the reason it is strong because 1 bishop has no opponent, pressure colors of complex of your unopposed bishop.
 - Bishops suffer from center pawns
 - Knights benefit from a closed position and outposts
