@@ -238,7 +238,7 @@ For example white a2, b2, d4, e5, f2, g2, h2 black a7, b7, d5, e6, f7, g7, h7. T
 
 Stragecially strong points to over protect.
 - The base of a pawn chain 
-- A central squares
+- Central squares
 - An outpost
 
 ## Manoevering
