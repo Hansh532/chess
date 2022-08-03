@@ -266,10 +266,12 @@ Don't always try to find the best move, try to win, dont waste 15 mins time look
 - Study typical middlegames arising from your opening so you know the plans
 
 ## Process of deciding on a move
+Ideas inspire calculation without them we would think like computers.
+
 Main ingredients:
 - Understanding
-- Ideas
-- Calculation
+- Ideas and Pattern recognition
+- Calculation 
 - Decision making
 
 The proces
