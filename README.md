@@ -10,6 +10,13 @@ Masters know many more patterns, memory plays a key role, patterns also help rem
 
 Photographic memory doesn't exist.  Some people have excellent memories and other can develop their memory through association, imagery, linking, etc., but the idea of recalling something like a picture--the human brain doesn't work that way.  Master chessplayers were given a memory test:  they looked at a middle game positiion from a real game for a number of seconds.  Then they were asked to reproduce it on another board.  Most of them could do it easily.  Then they were presented with a board in which the pieces and pawns were mixed up in a random manner.  they could not recall more that the average person off the street.  So, a chessplayer doesn't really see a picture, he sees patterns of forces on the board, most of which he is familiar from millions of real games.  This is a weak doubled pawn, this is a fianchetto, this is a castled positiion, etc.
 
+## Getting better at chess is useless
+So the point is that if you play tons of chess, spend hours learning the openings and all, all you do is become good at chess. It’s a massive waste of time. And it’s addictive.
+
+It’s fine for a social sport, play it once in a while, learn a new thing, have a laugh, but then you’d only be useless at it. Or to make a living out of it makes sense.
+
+Anyway, so the better a chess player is, the more stupid he/she is for wasting time on acquiring a useless skill.
+
 # Nimzowitsch My System Elements
 Summary of the elements
 
