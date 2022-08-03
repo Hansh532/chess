@@ -267,14 +267,14 @@ Don't always try to find the best move, try to win, dont waste 15 mins time look
 - During opponents move, look for weakness, ideas, be creative not too much concrete calculation, but look at potential tactical possibilities. Figure out what white and black want.
 - If you're opponents move is more or less forced 90% chance it will be played, you can already think like the the move has been played and decide on your own move, this will give you an edge on the clock.
 - After opponents move, ask 2 questions what does it threaten, how does it change the position?
-- Make inventory of moves to look at first, do a quick scan for forced moves you can play, look for positional moves.
+- Make inventory of moves to look at first, based on forced/forcing moves and your positional ideas.
 - Gain understanding by not too deeply calculating some lines.
 - Is one move clearly the best or are there multiple options? mayby other moves became interesting, during the calculation?
 - Have a preference for good but low risk moves, positional moves are quicker and more reliable.
-- If you want to go for a sharp line look for safety nets. ( an alternative
-line which you can adopt if, half-way through your intended continuation, you discover that it doesn't work. e.g. perpetual check)
-- Don't waste too much time looking over alternatives once you're convinced you found a good move.
-- Only at the point you have decided you want to play the move, be precise in calculating your opponents possible reply's, are the forced moves, are there sacrifices? If you run into complications, you want to go back and look at other moves. 
+- Don't waste too much time looking over alternatives once you're convinced you found a good move, worth investing precise calculation.
+- Only at the point you have decided you want to play the move, be precise in calculating your opponents possible reply's, are the forced moves, are there sacrifices? do you have a safetynet? If you run into complications , you might want to go back and look at other moves, before spending too much time. It's difficult to go back to other moves after investing too much time.
+
+__Aagaard: Calculation is only a tool to aid the decision making process__
 
 ## Lazyness vs wasting time
 Laziness at the chessboard manifests itself in two ways. The first is when you have a complicated possibility, but decide not to analyse it on the
