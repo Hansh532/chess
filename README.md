@@ -164,7 +164,7 @@ Nimzowitsch also gives an example where he gives up his own base of the chain d4
 ## Endgame
 Most endgame knowledge you can find in step 5 also, best is to play through the endgame examples in the my system book throughout all the chapters and do some tactical excersize in step 4 and 5.
 There is also seperate chapter elements of endgame strategy
-_Dont waste time on other endgame books, most are a waiste of time on elementary endgame techniques like K+Q vs K+R._
+_Dont waste time on other endgame books, most are a waist of time on elementary endgame techniques like K+Q vs K+R._
 
 # Nimzowitsch My System Positional Play
 A typical widespread misconception is that every move must immidiately achieve something, an amateur looks for moves which threaten something or parry a threat. and neglects all other possible moves, such as waiting moves or moves to reposition his pieces. The question is which moves are intended to consolidate our position  and bring out own pieces in contact with squares that are strategically important to us ( stuggle against freeing moves and over protection ). When a positional player plays against a purely combinative player who is attacking violently is surprised by a move which brings it's own pieces in contact with a key square and this contact turns out to be miraculous with the result that the position is cleared up and the attack grinds to a halt. So don't always look for an attack, consolodating moves which meet the demands of the position are far more frequently what should be played. 
