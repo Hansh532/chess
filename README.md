@@ -272,7 +272,7 @@ Don't always try to find the best move, try to win, dont waste 15 mins time look
 - Is one move clearly the best or are there multiple options? mayby other moves became interesting, during the calculation?
 - Have a preference for good but low risk moves, positional moves are quicker and more reliable.
 - Don't waste too much time looking over alternatives once you're convinced you found a good move, worth investing precise calculation.
-- Only at the point you have decided you want to play the move, be precise in calculating your opponents possible reply's, are the forced moves, are there sacrifices? do you have a safetynet? if you run into complications? how bad is the worst case scenario?, you might want to go back and look at other moves, before spending too much time. It's difficult to go back to other moves after investing too much time, so then calculate the alternative first so you can instantly pick it before exhausting yourself on a difficult line.
+- Only at the point you have decided you want to play the move, be precise in calculating your opponents possible reply's, are the forced moves, are there sacrifices? do you have a safetynet? if you run into complications? how bad is the worst case scenario?, you might want to go back and look at other moves, before spending too much time. It's difficult to go back to other moves after investing too much time, so then calculate the alternative first so you can instantly pick it after exhausting yourself on a difficult line.
 
 __Aagaard: Calculation is only a tool to aid the decision making process__
 
