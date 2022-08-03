@@ -276,11 +276,6 @@ Don't always try to find the best move, try to win, dont waste 15 mins time look
 
 __Aagaard: Calculation is only a tool to aid the decision making process__
 
-## Lazyness vs wasting time
-Laziness at the chessboard manifests itself in two ways. The first is when you have a complicated possibility, but decide not to analyse it on the
-grounds that it would be too much work. Note that is not the same as the
-'Do not analyse unnecesary tactics':'DAUT' that represents a conscious weighing of the balance between the timespent and the possibility of finding a better move.
-
 ## Critical moments
 You can spend extra time in a critical position where you feel there is a clear difference between the best move and the second best move, half a point or more. These are often sharp tactical positions.
 
@@ -289,6 +284,11 @@ You can spend extra time in a critical position where you feel there is a clear 
 - Deciding whether or not to allow trades of certain pieces
 - When the opponent has a clear threat that needs to be dealt with in some way
 - When a move in question is very committal and transforms the position in some way that can't be undone
+
+## Lazyness vs wasting time
+Laziness at the chessboard manifests itself in two ways. The first is when you have a complicated possibility, but decide not to analyse it on the
+grounds that it would be too much work. Note that is not the same as the
+'Do not analyse unnecesary tactics':'DAUT' that represents a conscious weighing of the balance between the timespent and the possibility of finding a better move.
 
 [Graph of GM time distribution](GrandmasterThinkingTime.jpg)
 
