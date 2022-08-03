@@ -170,12 +170,12 @@ _Dont waste time on other endgame books, most are a waiste of time on elementary
 A typical widespread misconception is that every move must immidiately achieve something, an amateur looks for moves which threaten something or parry a threat. and neglects all other possible moves, such as waiting moves or moves to reposition his pieces. The question is which moves are intended to consolidate our position  and bring out own pieces in contact with squares that are strategically important to us ( stuggle against freeing moves and over protection ). When a positional player plays against a purely combinative player who is attacking violently is surprised by a move which brings it's own pieces in contact with a key square and this contact turns out to be miraculous with the result that the position is cleared up and the attack grinds to a halt. So don't always look for an attack, consolodating moves which meet the demands of the position are far more frequently what should be played. 
 
 ## Doubled pawns
-- Compact double pawns has and adjacent pawn
+- Compact double pawns has an adjacent pawn
 - Isolated double pawns are Isolated
 
 The white a2 c2 c3 d5 e4 vs black e5 d6 c7 b7 a7. Because of the doubled pawn the advance c4 c5 is easily blocked by b6. Black has the option to play c6 at anytime and force exchange on d5, the white complex is the strongest if the d pawn would still be on d4.
 
-## Isolated queens pawns
+## Isolated queen pawns
 An isolated queens pawn is the complex white a2, b2, d4, f2, g2, h2. black a7, b7, e6, f7, g7, h7. 
 
 **Strengths in the middlegame**
