@@ -266,6 +266,13 @@ Don't always try to find the best move, try to win, dont waste 15 mins time look
 - Study typical middlegames arising from your opening so you know the plans
 
 ## Process of deciding on a move
+Main ingredients:
+- Understanding
+- Ideas
+- Calculation
+- Decision making
+
+The proces
 - During opponents move, look for weakness, ideas, be creative not too much concrete calculation, but look at potential tactical possibilities. Figure out what white and black want.
 - If you're opponents move is more or less forced 90% chance it will be played, you can already think like the the move has been played and decide on your own move, this will give you an edge on the clock.
 - After opponents move, ask 2 questions what does it threaten, how does it change the position?
