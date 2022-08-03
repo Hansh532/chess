@@ -190,7 +190,7 @@ An isolated queens pawn is the complex white a2, b2, d4, f2, g2, h2. black a7, b
 Recommended a solid setup for white, strong support of d4: Be3 Qc2 Rc1 Rd1. Attack only when the opportunity presents itself. 
 
 White plans: 
-- Aim for d4-d5 exd5 abd recapture with a piece, gives white a more centralized position
+- Aim for d4-d5 exd5 and recapture with a piece, gives white a more centralized position
 - Play on the c-file
 
 Black plans 
