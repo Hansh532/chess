@@ -275,7 +275,7 @@ Main ingredients:
 - Decision making
 
 The proces
-- During opponents move, look for weakness, ideas, be creative not too much concrete calculation, but look at potential tactical possibilities. Figure out what white and black want.
+- During opponents move, look for weakness, ideas, be creative not too much concrete calculation, but look at potential tactical possibilities. Figure out what white and black want. You can walk around but keep looking/visualizing your own game.
 - If you're opponents move is more or less forced 90% chance it will be played, you can already think like the the move has been played and decide on your own move, this will give you an edge on the clock.
 - After opponents move, ask 2 questions what does it threaten, how does it change the position?
 - Make inventory of moves to look at first, based on forced/forcing moves and your positional ideas.
@@ -317,15 +317,60 @@ You can spend extra time in a critical position where you feel there is a clear 
 - Rook is more valueable when you have one because the other rook does not get in the way
 - Depending on the position strong advanced passed pawns can be worth 2 or even 3 on the 7th, so passed pawns must be pushed!
 
-# Before a game
-Take a relaxing day before, no intensive excersize or chess study.  
-Eat 2 hours before the game and take a nap.
-Do some tactics slightly above your level just before the game, to activate your brain.
+# Practical
+
+## Before a game
+- Take a relaxing day before, no intensive excersize or chess study.  
+- Get a good sleep the knight before.
+- Take a nap 1.5 hour before the game.  
+- Prepare for your opponent opening  
+
+### Make sure you're aware of tournament regulations.  
+- Phone rules
+- Time controls
+- If your opponent makes an illegal move, for example misses a check, stop the clock and call the TD, if you take the king instead your opponent can claim
 
 
+## Psychology
+- Ignore your opponents, they don't matter. Only what happens on the board matters.
+- Think humble about your own abilities, to not raise expectation, frustration and not become arrogant and reckless.
 
+## Food
+Eat 2 hours before the game  
+- Blueberries ( aids communication between brain cells )
+- Fatty Fish ( omega 3, brain function )
+- Eggs ( vitamin b and coline to create neurotransmitters )
+- Fruits Kiwi, orange, tomatoes, strawberries ( vitamin c, for damaged brain cells )
+- Leafy greens, brocoli spinach
+- Walnuts ( omega 3, brain function )
+- Pumpkin seeds ( antioxidants, megnesium, copper, zinc, iron ) nerve signalling learning and memory.
+- Turmeric tea ( has been associated with improved memory, less depression, and the growth of new brain cells.  ) 
 
+10 to 20 mins before the game: coffee, caffeine peaks after 45 minutes. To have maximum effect and not impair sleep no other coffee consumption. No large starbucks just a regular single espresso or cappucino.
 
+During game: Carlsen often chews gum. When you chew gum, it increases blood flow to your brain. 
+
+## Chess excersize
+Not much just some tactics slightly above your level just before the game, to activate your brain.
+
+## Physical excersize
+Just walking
+
+## Music
+Music Stimulate cognitive function, because music can activate almost all brain regions and networks, it can help to keep a myriad of brain pathways and networks strong and recuce stress and increase positivity.
+
+Recommended music before the game:
+- Instrumental Rock
+- Classical music
+
+Don't listen to music while playing because it will distract, songs with lyrics are especially distracting, ambient music is ok.
+
+## Avoiding toilet breaks
+- Limit your intake of fluids two hours before the game
+- Have a light breakfast
+
+## Reflexology 
+Push on your big toes they have reflexology points connected to the brain, you need soft shoes for this.
 
 
 
