@@ -319,6 +319,9 @@ You can spend extra time in a critical position where you feel there is a clear 
 
 # Practical
 
+## Blitz
+Blitz is fine for practising, if you do analyse game thoroughly.
+
 ## Before a game
 - Take a relaxing day before, no intensive excersize or chess study.  
 - Get a good sleep the knight before.
