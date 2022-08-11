@@ -369,7 +369,7 @@ Don't listen to music while playing because it will distract, songs with lyrics 
 - Have a light breakfast
 
 ## Reflexology 
-Push foot down on your big toes while playing they have reflexology points connected to the brain, you need soft shoes for this.
+Push foot down on your big toes while playing they have reflexology points connected to the brain, should reduce stress instantly and bring clarity. you need soft shoes for this.
 
 
 
