@@ -320,7 +320,7 @@ You can spend extra time in a critical position where you feel there is a clear 
 # Practical
 
 ## Blitz
-Blitz is fine for practising, if you do analyse game thoroughly.
+Blitz is fine for practising, if you do analyse game thoroughly. Make a habit to spend 3x times as much time analysing blitz games than playing them.
 
 ## Before a game
 - Take a relaxing day before, no intensive excersize or chess study.  
