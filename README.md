@@ -333,6 +333,7 @@ You can spend extra time in a critical position where you feel there is a clear 
 ## Psychology
 - Ignore your opponents, they don't matter. Only what happens on the board matters.
 - Think humble about your own abilities, to not raise expectation, frustration and not become arrogant and reckless.
+- You're rating only reflects historic performance.
 
 ## Food
 Eat 2 hours before the game  
