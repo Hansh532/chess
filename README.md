@@ -330,7 +330,6 @@ You can spend extra time in a critical position where you feel there is a clear 
 - Time controls
 - If your opponent makes an illegal move, for example misses a check, stop the clock and call the TD, if you take the king instead your opponent can claim
 
-
 ## Psychology
 - Ignore your opponents, they don't matter. Only what happens on the board matters.
 - Think humble about your own abilities, to not raise expectation, frustration and not become arrogant and reckless.
@@ -370,7 +369,7 @@ Don't listen to music while playing because it will distract, songs with lyrics 
 - Have a light breakfast
 
 ## Reflexology 
-Push on your big toes they have reflexology points connected to the brain, you need soft shoes for this.
+Push on your big toes while playing they have reflexology points connected to the brain, you need soft shoes for this.
 
 
 
