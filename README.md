@@ -349,6 +349,8 @@ Eat 2 hours before the game
 
 During game: Carlsen often chews gum. When you chew gum, it increases blood flow to your brain. 
 
+After the game: Low intake of Alcohol may cleanse the brain according to studies, it's ok to have a wine or a beer after the game.
+
 ## Chess excersize
 Not much just some tactics slightly above your level just before the game, to activate your brain.
 
