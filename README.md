@@ -377,7 +377,11 @@ Don't listen to music while playing because it will distract, songs with lyrics 
 ## Reflexology 
 Push foot down on your big toes while playing they have reflexology points connected to the brain, should reduce stress instantly and bring clarity. you need soft shoes for this.
 
-
+## Dopamine
+Addictive substances, are hyper-stimulating triggers that lead to unnaturally high levels of dopamine secretion.
+Negatively impacts the prefrontal cortex, struggle to regulate their emotions and impulses.
+Overstimulation of the reward circuitry. “When dopamine receptors drop after too much stimulation, the brain doesn’t respond as much, and we feel less reward from pleasure. 
+The neurotransmitter dopamine, known to play a key role in motivated behavior, has a direct impact on memory formation in the hippocampus.
 
 
 
