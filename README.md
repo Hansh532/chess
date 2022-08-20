@@ -385,10 +385,12 @@ The neurotransmitter dopamine, known to play a key role in motivated behavior, h
 
 ## Bevindingen toernooi
 - Stoicein Rede zelfbeheersing standvastigheid
-- Forced moves, threats.
+- Forced moves, threats, beheers je om niet gelijk ( uit schrik ) te veel te gaan rekenen eerst algemeen breed kijken.
 - Welke stukken staan goed welke slecht ( voor zwart en wit! ), pawn breaks pionnen structuur
+- Op basis van opgedaan inzicht stelling kandidaten kiezen, dan pas rekenen.
 - Focus focus focus
 - How to focus 4hr straight
+- Muziek voor de partij werkt
  
 
 
