@@ -391,6 +391,7 @@ The neurotransmitter dopamine, known to play a key role in motivated behavior, h
 - Focus focus focus
 - How to focus 4hr straight
 - Muziek voor de partij werkt
+- Het enige wat telt in vluggertjes: onthoud de opening en check met chessbase app
  
 
 
