@@ -383,6 +383,14 @@ Negatively impacts the prefrontal cortex, struggle to regulate their emotions an
 Overstimulation of the reward circuitry. “When dopamine receptors drop after too much stimulation, the brain doesn’t respond as much, and we feel less reward from pleasure. 
 The neurotransmitter dopamine, known to play a key role in motivated behavior, has a direct impact on memory formation in the hippocampus.
 
+## Bevindingen toernooi
+- Stoicein Rede zelfbeheersing standvastigheid
+- Forced moves, threats.
+- Welke stukken staan goed welke slecht ( voor zwart en wit! ), pawn breaks pionnen structuur
+- Focus focus focus
+- How to focus 4hr straight
+ 
+
 
 
 
