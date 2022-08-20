@@ -394,6 +394,7 @@ The neurotransmitter dopamine, known to play a key role in motivated behavior, h
 - Het enige wat telt in vluggertjes: onthoud de opening en check met chessbase app
 - Think about your move order to make your repotoire in a coherrent whole, get in to positions youre confoftable with
 - Meer zien
+- Wees origineel, creatief
 
  
 
