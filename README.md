@@ -319,9 +319,6 @@ You can spend extra time in a critical position where you feel there is a clear 
 
 # Practical
 
-## Blitz
-Blitz is fine for practising, if you do analyse game thoroughly. Make a habit to spend 3x times as much time analysing blitz games than playing them.
-
 ## Before a game
 - Take a relaxing day before, no intensive excersize or chess study.  
 - Get a good sleep the knight before.
@@ -332,11 +329,7 @@ Blitz is fine for practising, if you do analyse game thoroughly. Make a habit to
 - Phone rules
 - Time controls
 - If your opponent makes an illegal move, for example misses a check, stop the clock and call the TD, if you take the king instead your opponent can claim
-
-## Psychology
-- Ignore your opponents, they don't matter. Only what happens on the board matters.
-- Think humble about your own abilities, to not raise expectation, frustration and not become arrogant and reckless.
-- You're rating only reflects historic performance.
+- Official Fide rule, you're allowed one illegal move in a long game.
 
 ## Food
 Eat 2 hours before the game  
@@ -355,9 +348,6 @@ During game: Carlsen often chews gum. When you chew gum, it increases blood flow
 
 After the game: Low intake of Alcohol may cleanse the brain according to studies, it's ok to have a wine or a beer after the game.
 
-## Chess excersize
-Not much just some tactics slightly above your level just before the game, to activate your brain.
-
 ## Physical excersize
 Just walking
 
@@ -368,6 +358,7 @@ Recommended music before the game:
 - Instrumental Rock
 - Classical music
 
+Listen to music before the game  
 Don't listen to music while playing because it will distract, songs with lyrics are especially distracting, ambient music is ok.
 
 ## Avoiding toilet breaks
@@ -375,27 +366,13 @@ Don't listen to music while playing because it will distract, songs with lyrics 
 - Have a light breakfast
 
 ## Reflexology 
-Push foot down on your big toes while playing they have reflexology points connected to the brain, should reduce stress instantly and bring clarity. you need soft shoes for this.
+Only when you're hard is beating in your head. Push foot down on your big toes while playing they have reflexology points connected to the brain, should reduce stress instantly and bring clarity. you need soft shoes for this.
 
 ## Dopamine
 Addictive substances, are hyper-stimulating triggers that lead to unnaturally high levels of dopamine secretion.
 Negatively impacts the prefrontal cortex, struggle to regulate their emotions and impulses.
 Overstimulation of the reward circuitry. “When dopamine receptors drop after too much stimulation, the brain doesn’t respond as much, and we feel less reward from pleasure. 
 The neurotransmitter dopamine, known to play a key role in motivated behavior, has a direct impact on memory formation in the hippocampus.
-
-## Bevindingen toernooi
-- Stoicein Rede zelfbeheersing standvastigheid
-- Forced moves, threats, beheers je om niet gelijk ( uit schrik ) te veel te gaan rekenen eerst algemeen breed kijken.
-- Welke stukken staan goed welke slecht ( voor zwart en wit! ), pawn breaks pionnen structuur
-- Op basis van opgedaan inzicht stelling kandidaten kiezen, dan pas rekenen.
-- Focus focus focus
-- How to focus 4hr straight
-- Muziek voor de partij werkt
-
-
-- Meer zien
-- Wees origineel, creatief
-
 
 ## What works for me
 Advise from Anand: Look wat works for you, everyone is different. Actually playing is the best way to improve
@@ -410,10 +387,15 @@ Advise from Anand: Look wat works for you, everyone is different. Actually playi
 - Actually playing with tablet against personality chess.com
 - Getting a pi zero 2w for my Centaur
 - Thoroughly analysing each game, what was going on in my head?
-- Blitz games: only serve for opening practice
+- Blitz games only serve for opening practice
+
+## Psychology
+- Ignore your opponents, they don't matter. Only what happens on the board matters. 
+- Acting out Kasparov style rudeness.
+- Don't think about rating, having a creative style should cause the game to become complicated and then your level will prevail.
 
 ### Opening
-- Think about your move order to make your repotoire in a coherrent whole, get in to positions youre confoftable with
+- Think about your move order to make your repotoire in a coherrent whole, get in to positions youre confortable with
 - Look for possible transpositions from/to main lines for example Sicilian, could throw your off opponent
 
 
