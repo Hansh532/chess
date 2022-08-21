@@ -395,6 +395,9 @@ The neurotransmitter dopamine, known to play a key role in motivated behavior, h
 - Think about your move order to make your repotoire in a coherrent whole, get in to positions youre confoftable with
 - Meer zien
 - Wees origineel, creatief
+- Anand: look wat works for you, everyone is different
+- Anand: actually playing is the best way to improve
+- Mindfulness
 
  
 
