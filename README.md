@@ -398,13 +398,12 @@ The neurotransmitter dopamine, known to play a key role in motivated behavior, h
 
 
 ## What works for me
-- Anand: look wat works for you, everyone is different
-- Anand: actually playing is the best way to improve
+Advise from Anand: Look wat works for you, everyone is different. Actually playing is the best way to improve
 
 - Music before the game.
 - Mindfulness/Yoga for focus
 - Dont get stressed/dissapointed when you missed something.
-- Being creative, positive, curious, not caring about outcome
+- Being creative, positive, curious, not caring about outcome but about having fun.
 - Looking at the position objectively, what is good, what is bad, what should white try, what should black try? good pieces, bad pieces, pawn structure, breaks, sacrifice?
 - Be economical with calculation, but not be lazy when you have to.
 - No chess books/puzzles
@@ -415,7 +414,7 @@ The neurotransmitter dopamine, known to play a key role in motivated behavior, h
 
 ### Opening
 - Think about your move order to make your repotoire in a coherrent whole, get in to positions youre confoftable with
-- Look for possible transpositions from/to main lines for example sicilian, could throw your off opponent
+- Look for possible transpositions from/to main lines for example Sicilian, could throw your off opponent
 
 
 
