@@ -226,6 +226,7 @@ Weaknesses
 - Assymetric position favors bishop because of possible passed pawn creation.
 - Pawns on both wings favor bishops
 - Smyslov rule, knight is stronger than bishop in position with fixed pawns.
+- Energy balance, sleep, food, excersize.
 
 ## Bishop pair advantages
 - Strong in a kingside attack, one bishop forces a pawn to move and the other can attack the king on the freed diagonal
