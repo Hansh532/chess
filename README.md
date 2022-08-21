@@ -391,13 +391,33 @@ The neurotransmitter dopamine, known to play a key role in motivated behavior, h
 - Focus focus focus
 - How to focus 4hr straight
 - Muziek voor de partij werkt
-- Het enige wat telt in vluggertjes: onthoud de opening en check met chessbase app
-- Think about your move order to make your repotoire in a coherrent whole, get in to positions youre confoftable with
+
+
 - Meer zien
 - Wees origineel, creatief
+
+
+## What works for me
 - Anand: look wat works for you, everyone is different
 - Anand: actually playing is the best way to improve
-- Mindfulness
+
+- Music before the game.
+- Mindfulness/Yoga for focus
+- Dont get stressed/dissapointed when you missed something.
+- Being creative, positive, curious, not caring about outcome
+- Looking at the position objectively, what is good, what is bad, what should white try, what should black try? good pieces, bad pieces, pawn structure, breaks, sacrifice?
+- Be economical with calculation, but not be lazy when you have to.
+- No chess books/puzzles
+- Actually playing with tablet against personality chess.com
+- Getting a pi zero 2w for my Centaur
+- Thoroughly analysing each game, what was going on in my head?
+- Blitz games: only serve for opening practice
+
+### Opening
+- Think about your move order to make your repotoire in a coherrent whole, get in to positions youre confoftable with
+- Look for possible transpositions from/to main lines for example sicilian, could throw your off opponent
+
+
 
  
 
