@@ -387,7 +387,7 @@ Advise from Anand: Look wat works for you, everyone is different. Actually playi
 - Actually playing with tablet against personality chess.com
 - Getting a pi zero 2w for my Centaur
 - Thoroughly analysing each game, what was going on in my head?
-- Blitz games only serve for opening practice.
+- Blitz games serve for opening practice and practice being sharp.
 - Look for complication to beat careful and whishing to draw 1800s and 1900s
 - Be honest to your self, don't pride yourself with a winning a game full of blunders from both side, don't torture yourself over a lost or drawn game with few mistakes.
 
