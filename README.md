@@ -401,9 +401,36 @@ Advise from Anand: Look wat works for you, everyone is different. Actually playi
 - Think about your move order to make your repotoire in a coherrent whole, get in to positions youre confortable with
 - Look for possible transpositions from/to main lines for example Sicilian, could throw your off opponent
 
+## Keep your mind sharp
+1. Learn a foreign language. Learning a second (or a third) language challenges the brain in new ways and may even delay the onset of dementia, according to recent research. Say you learn the word for mother in Spanish is “madre.” Initially, you may have to concentrate to remember that word, but if you practice, over time, it becomes part of your vocabulary. That easy recall proves your brain has laid down a new pathway.
 
+Quick tip: Pick one night a week to speak in another language (however poorly), or stay silent and communicate with sign language.
 
- 
+2. Try a new activity. Engaging in mentally challenging activities helps build a reserve of brainpower you can draw on for years. The key, of course, is choosing unfamiliar activities that you enjoy. Play chess, take up gardening or learn to play a musical instrument. It doesn’t matter what you choose, provided the activity is new to you.
+
+Quick tip: If you’re a whiz at crossword puzzles, do a word search activity instead. Comfortable with writing exercises? Try your hand at drawing or painting.
+
+3. Eat brain-boosting foods. Eating a diet rich in fruits, vegetables and whole grains, and low in saturated fat and sugar, can help protect brain networks. In fact, studies consistently show that eating a mix of nourishing foods—fruits, vegetables, nuts, fatty fish, and yes, even a daily glass of wine—sharpens your mind, builds new brain cells and fights off mental decline.
+
+Quick tip: Keep a stash of trail mix in your pocketbook or glove box. The brain needs consistent fuel (at least every 3 to 5 hours) to function well.
+
+4. Exercise. Research consistently links physical exercise with brain benefits, particularly in the regions responsible for learning and memory. But don’t worry. You don’t have to spend 90 minutes in the gym to experience exercise’s mind-boosting effects. Even moderate exercise (say jogging, cycling or even walking) for about 30 minutes daily can get the blood flowing to your head.
+
+Quick Tip: Preliminary research suggests the perks of physical activity are more pronounced when combined with a mental challenge. So things like taking a dance class, learning martial arts or practicing yoga may be especially beneficial.
+
+5. Get some sleep. Getting sufficient sleep is one of the best things you can do for your brain. While researchers aren’t entirely clear what happens in the mind when you’re snoozing, they do know that sleep is critical for the body and mind to function at their prime. Sleep not only reenergizes the body’s cells and clears out waste products from the brain, it also promotes learning and memory.
+
+Quick tip: Strive to get 7 to 8 hours of sleep each night. Can’t manage to sleep that many hours in one stretch? Consider a daytime power nap.
+
+6. Stay on top of your health conditions. Just as your mind can help protect your body, keeping your body humming can protect your mind. Health conditions ranging from diabetes and high blood pressure to depression and hypothyroidism can impact how well your brain functions.
+
+Quick tip: Protect your memory by following your doctor’s advice carefully, taking medications appropriately and reporting any changes in how your brain is functioning.
+
+7. Meditate. The brain needs time to restore itself and reflect. In fact, research links “thinking about not thinking” to a host of physical and mental health benefits. And emerging research suggests meditating regularly may even enhance your memory.
+
+Quick tip: Take 10 to 15 minutes each day to quiet your mind and focus on only one thing: your breathing. Not only will you give your brain an opportunity to recharge, but the focused breaths will promote blood flow to it, too.
+
+8. Connect. Maintaining close relationships requires a certain level of brainpower. Not only do you have to think fast to engage in conversation, but resolving conflicts and debating current affairs flexes mental muscles as well. So it’s no wonder studies suggest that socially active seniors are less likely to develop Alzheimer’s disease than their wallflower counterparts.
 
 
 
